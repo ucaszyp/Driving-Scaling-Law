@@ -23,13 +23,13 @@ The end-to-end autonomous driving paradigm has recently attracted lots of attent
 ![](./fig/qualitative.jpg) 
 
 ## Simulation Demo
-Comparison Scenario1: 
+### Comparison Scenario1: 
 ![](./fig/sim1.gif)
 
-Comparison Scenario2: 
+### Comparison Scenario2: 
 ![](./fig/sim2.gif)
 
-Simulation Demonstration: 
+### Simulation Demonstration: 
 ![](./fig/sim3.gif)
 
 ## Real-world Deployment
