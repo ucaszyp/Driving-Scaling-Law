@@ -1,7 +1,7 @@
 <div align="center>
 
 # Preliminary Investigation into Data Scaling Laws for Imitation Learning-Based End-to-End Autonomous Driving
-
+</div>
 
 
 ## Abstract
