@@ -40,7 +40,7 @@ Project repository: https://github.com/ucaszyp/Driving-Scaling-Law
 ![](./fig/quantity.jpg) 
 
 ## Combinatorial Generalization.
-![](./fig/Combinatorial.jpg) 
+![](./fig/combinatorial.jpg) 
 
 ## Simulation Demo
 ### Comparison Scenario1: Invalid Lane Change
