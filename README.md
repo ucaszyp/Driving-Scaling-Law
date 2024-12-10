@@ -5,7 +5,7 @@
 
 
 
-![](./pic/teaser.jpg)
+![](./fig/teaser.jpg)
 We have collected and utilized a large-scale, diverse real-world dataset, enabling us to investigate data scaling laws of end-to-end driving. 
 Figure (a) illustrates the diversity of our dataset, encompassing various weather conditions, road types, and traffic scenarios. 
 Figure (b) presents 23 scenario types that we have identified to conduct in-depth analyses of the impact of data scale on generalization and the importance of data distribution. 
@@ -26,7 +26,6 @@ Through experimental analysis, we discovered that
 Our results highlight the critical role of data scaling in improving the generalizability of models across diverse autonomous driving scenarios, assuring safe deployment in the real world. 
 Project repository: https://github.com/ucaszyp/Driving-Scaling-Law
 
-![](./fig/teaser.jpg)
 
 
 ## Method
@@ -34,20 +33,23 @@ Project repository: https://github.com/ucaszyp/Driving-Scaling-Law
 ![](./fig/main.jpg) 
 
 
-## Quantitative Results
-![](./fig/quantitative.jpg)
+## Data Scaling Law
+![](./fig/scalinglaw.jpg)
 
-## Qualitative Results
-![](./fig/qualitative.jpg) 
+## Data Quantity
+![](./fig/quantity.jpg) 
+
+## Combinatorial Generalization.
+![](./fig/Combinatorial.jpg) 
 
 ## Simulation Demo
-### Comparison Scenario1: 
+### Comparison Scenario1: Invalid Lane Change
 ![](./fig/sim1.gif)
 
-### Comparison Scenario2: 
+### Comparison Scenario2: Wait Turn
 ![](./fig/sim2.gif)
 
-### Simulation Demonstration: 
+### Simulation Demonstration: Diverse Environment Simulation
 ![](./fig/sim3.gif)
 
 ## Real-world Deployment
